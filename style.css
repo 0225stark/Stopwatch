@@ -1,0 +1,47 @@
+body{
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh;
+}
+
+#btn{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#container{
+    color: blanchedalmond;
+}
+
+.digit{
+    font-size: 150px;
+    font-weight: bold;
+}
+
+.txt{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.b{
+    padding: 10px 20px;
+    font-size: 25px;
+    margin: 0px 10px;
+    color:  black;
+    border: 1px;
+    cursor: pointer;
+}
+
+#r{
+    background-color: darkgoldenrod;
+}
+
+#st{
+    background-color: red;
+}
+
+#sr{
+    background-color: green;
+}
